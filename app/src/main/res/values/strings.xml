@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NyBooks</string>
+
+    <!-- Books Activity -->
+    <string name="title_books">Books</string>
+
+</resources>
