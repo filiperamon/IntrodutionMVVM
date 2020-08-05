@@ -36,7 +36,6 @@ class BooksViewModel : ViewModel() {
                                     description = result.bookDetails[0].description
                             )
                             books.add(book)
-                            //Log.d("FRSB", result.bookDetails[0].toString())
                         }
                     }
 
